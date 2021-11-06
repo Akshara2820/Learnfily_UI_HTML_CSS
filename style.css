@@ -1,0 +1,773 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#learnify-header{
+    background-color: white;
+    width: 10rem;
+    height: 10rem;
+    margin: 0px;
+    padding: 0px;
+}
+.learnify_heading{
+    font-size: 2.5rem;
+    margin-left: 4rem;
+    margin-top: -8rem;
+
+
+}
+.learnify_contain_home_about{
+    font-size: 1.2rem;
+    margin-left: 45rem;
+    margin-top: -4rem;
+    word-spacing: 1rem;
+}
+.bag_icon{
+    margin-left: 98rem; 
+    margin-top: -2rem;
+    word-spacing: 1.5rem;
+    font-size: 1.2rem;
+
+}
+
+.get_ticket_btn{
+
+    background-color:#17c751;
+    width:8rem;
+    height:2.5rem;
+    font-size:-3rem;
+    margin-left:103rem;
+    color:white;
+    padding:-1rem -1rem -1rem -1rem;
+    border-radius:2rem 2rem 2rem 2rem;
+    margin-top: -2rem;
+    border: none;
+    outline: none;
+}
+.learnfily_laptop_image{
+    margin-top: 40px;
+    width: 114.8rem;
+    height: 55rem;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5),url("women_in_office.jpg"))
+    
+}
+.learnify_heading_on_image{
+    position: absolute;
+    top: 25rem;
+    left: 30rem;
+}
+.heading_on_image{
+    color: rgb(255, 255, 255);
+    font-size: 6rem;
+}
+.learnfily_subtittle_on_image{
+    color: rgb(255, 255, 255);
+    font-size: 1.3rem;
+    margin-left: 8rem;
+    margin-top:-3rem ;
+}
+.learnfily_view_course{
+    position: absolute;
+    top: 25rem;
+    left: 25rem;
+    
+}
+.View_course_btn{
+    background-color:#fbfbfb;
+    width:11rem;
+    height:2.8rem;
+    font-size:-3rem;
+    margin-left:15rem;
+    color:black;
+    padding:-1rem -1rem -1rem -1rem;
+    border-radius:1rem 1rem 1rem 1rem;
+    margin-top: 16rem;
+    border: none;
+    outline: none;
+}
+.learn_more_btn{
+    background-color:#ec3a3a;
+    width:11rem;
+    height:2.8rem;
+    font-size:-3rem;
+    margin-left:1rem;
+    color:white;
+    padding:-1rem -1rem -1rem -1rem;
+    border-radius:1rem 1rem 1rem 1rem;
+    margin-top: 16rem;
+    border: none;
+    outline: none;
+}
+.learnfily_basket_icon{
+    position: absolute;
+    top: 32rem;
+    left: 25rem;
+}
+.basket_icon{
+    margin-left: 87.5rem; 
+    margin-top: -2rem;
+    font-size: 1.5rem;
+    color: white;
+}
+#learnfily_images_icon{
+    margin-left: 87.5rem; 
+    margin-top: 1rem;
+    
+
+}
+#learnfily_hide_icon{
+    margin-left: 87.5rem; 
+    margin-top: 1rem;
+    
+}
+
+.learnfily_message_icon{
+    position: absolute;
+    top: 25rem;
+    left: 25rem;
+}
+.message_icon{
+    margin-left: 87.5rem; 
+    margin-top: -2rem;
+    font-size: 1.5rem;
+    color: rgb(165, 93, 93);
+}
+#learnfily-message-icon{
+    margin-left: -110rem; 
+    margin-top: 30rem;
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+
+    
+}
+.presale-chat_btn{
+    background-color:#fbfbfb;
+    width:11rem;
+    height:2.8rem;
+    font-size:-3rem;
+    margin-left:1rem;
+    color:black;
+    padding:-1rem -1rem -1rem -1rem;
+    border-radius:1rem 1rem 1rem 1rem;
+    margin-top: 16rem;
+    border: none;
+    outline: none;
+}
+.offer_learnfily{
+    color: blue;
+    margin-left: 25rem;
+    margin-top: 15rem;
+    letter-spacing: 0.2rem;
+}
+.learnfily_effective_learning{
+    margin-left: 25rem;
+    margin-top: 2rem;
+    font-size: 3rem;
+}
+.learnfily_effective_learning_subtittle{
+    margin-left:25rem;
+    color: rgb(61, 60, 60);
+    font-size: 1.2rem;
+}
+.learnfily_about_us_btn{
+    background-color:blue;
+    width:11rem;
+    height:2.8rem;
+    font-size:-3rem;
+    margin-left:25rem;
+    color:rgb(255, 255, 255);
+    padding:-1rem -1rem -1rem -1rem;
+    border-radius:2rem 2rem 2rem 2rem;
+    margin-top: 2rem;
+    border: none;
+    outline: none;
+    font-size: bold;
+}
+.learnfily_border_{
+    border-style:solid;
+    border-color:darkgrey ;
+    border-width: 0.1rem;
+    height: 3rem;
+    margin-top: -25rem;
+    width: 16rem;
+    height: 15rem;
+    margin-left: 60rem;
+}
+
+.learnfily_border_online_course{
+    color: rgb(0, 0, 0);
+    margin-top: 9rem;
+    margin-left: 4rem;
+}
+#laptop_icon{
+    margin-top: -10rem;
+    margin-left: 65.5rem;
+    font-size: 3rem;
+
+}
+.learnfily_border_power{
+    border-style:solid;
+    border-color:darkgrey ;
+    border-width: 0.1rem;
+    height: 3rem;
+    margin-top: -18rem;
+    width: 16rem;
+    height: 15rem;
+    margin-left: 78rem;
+}
+.learnfily_border_powerful_program{
+    color: rgb(0, 0, 0);
+    margin-top: 9rem;
+    margin-left: 3.5rem;
+}
+#powerfil_program_icon{
+    margin-top: -7rem;
+    font-size: 3rem;
+    margin-left:5rem;
+}
+.learnfily_teacher{
+    border-style:solid;
+    border-color:darkgrey ;
+    border-width: 0.1rem;
+    height: 3rem;
+    margin-top: 7rem;
+    width: 16.5rem;
+    height: 15rem;
+    margin-left: 0.1rem;
+}
+.personal_teacher{
+    margin-left: 4rem;
+    margin-top: 10rem;
+}
+#learnfily_award_icon{
+    font-size: 3rem;
+    margin-top: -10rem;
+    margin-left: 7rem;
+}
+.learnfly_support{
+    border-style:solid;
+    border-color:darkgrey ;
+    border-width: 0.1rem;
+    height: 3rem;
+    margin-top: 6rem;
+    width: 16.5rem;
+    height: 15rem;
+    margin-left: 0.1rem;
+}
+.learnfily_24_support_{
+    margin-left: 5rem;
+    margin-top: 9rem;
+} 
+#support_icon{
+    margin-top: -6rem;
+    margin-left: 6rem;
+    font-size: 3rem;
+}
+.learnfily_Course{
+    width: 115rem;
+    height: 60rem;
+    background-color: #eeeeee;
+    margin-top: 30rem;
+
+}
+.learnfily_Course_we_teach{
+    color: blue;
+    margin-left: 50rem;
+    margin-top: -53rem;
+    letter-spacing: 0.2rem;
+
+}
+.learnfily_ourCourse{
+    margin-top: 1rem;
+    margin-left: 47rem;
+    font-size: 3rem;
+    letter-spacing: 0.1rem;
+}
+
+.Drawing_img{
+    margin-left: 20rem;
+}
+
+.price_tag_drawing{
+    margin-top: -15rem;
+    margin-left: 21rem;
+    color: rgb(255, 255, 255);
+    font-size: 1.5rem;
+}
+.advance_course{
+    margin-left: 47rem;
+    margin-top: -4.9rem;
+}
+.price_tag_advance_course{
+    color: rgb(255, 255, 255);
+    margin-top: -15rem;
+    margin-left: 48rem;
+    font-size: 1.5rem;
+}
+.online_course{
+    margin-left: 74rem;
+    margin-top: -4.9rem;
+}
+.price_tag_online_course{
+    color: rgb(255, 255, 255);
+    margin-top: -15rem;
+    margin-left: 75rem;
+    font-size: 1.5rem;
+}
+.learnfily_caption{
+    color: rgb(0, 0, 0);
+    background-color:white;
+    width: 25rem;
+    height: 13rem;
+    margin-top: 13rem;
+    margin-left: 20rem;
+    
+}
+.learnfily_dwawing_heading{
+    margin-left: 1.5rem;
+    font-size: 1.8rem;
+   
+}
+.learnfily_dwawing_subtittle{
+    margin-left: 1.5rem;
+    color: rgb(107, 104, 104);
+}
+.learnfily_Learn_more_button{
+    background-color:blue;
+    width:8rem;
+    height:2.5rem;
+    font-size:-1rem;
+    margin-left:1.5rem;
+    color:white;
+    padding:-1rem -1rem -1rem -1rem;
+    border-radius:2rem 2rem 2rem 2rem;
+    margin-top: 0.2rem;
+    border: none;
+    outline: none;
+    letter-spacing:1;
+}
+.learnfily_caption_advance_course{
+    background-color:rgb(255, 255, 255);
+    width: 25rem;
+    height: 14rem;
+    margin-left: 47rem;
+    margin-top: -14rem;
+}
+.learnfily_advance_course_heading{
+    margin-left: 1.5rem;
+    font-size: 1.8rem;
+
+}
+.learnfily_advance_course_subtittle{
+    margin-left: 1.5rem;
+    color: rgb(107, 104, 104);
+}
+.learnfily_caption_sketch_course{
+    background-color:rgb(255, 255, 255);
+    width: 24rem;
+    height: 14rem;
+    margin-left: 74rem;
+    margin-top: -14rem;
+}
+.learnfily_sketch_course_heading{
+    margin-left: 2rem;
+    font-size: 1.8rem;
+}
+.learnfily_sketch_course_subtittle{
+    margin-left: 2rem;
+    color: rgb(107, 104, 104);
+}
+.learnfily_Learn_more_courses_button{
+    background-color:rgb(226, 44, 44);
+    width:15rem;
+    height:3rem;
+    font-size:-1rem;
+    margin-left:50rem;
+    color:white;
+    padding:-1rem -1rem -1rem -1rem;
+    border-radius:2rem 2rem 2rem 2rem;
+    margin-top: 4rem;
+    border: none;
+    outline: none;
+    letter-spacing:1;
+}
+._girl_image_{
+    margin-left: 20rem;
+    margin-top: 15rem;
+}
+.learnfily_meeeting_img{
+    margin-left: 2rem;
+}
+.offer_learnfily_two{
+    margin-left: 62rem;
+    margin-top: -28rem;
+    color: blue;
+    letter-spacing: 0.2rem;
+}
+.quality_education_heading{
+    margin-left: 62rem;
+    font-size: 3rem;
+    margin-top: 1rem;
+    
+}
+.quality_education_subtitle{
+    margin-left: 62rem;
+    color: rgb(61, 60, 60);
+    font-size: 1.2rem;
+}
+.learnfily_read_more_btn{
+    margin-left: 0.1rem;
+    background-color:blue;
+    width:8rem;
+    height:2.5rem;
+    font-size:-1rem;
+    color:white;
+    padding:-1rem -1rem -1rem -1rem;
+    border-radius:2rem 2rem 2rem 2rem;
+    margin-top:2rem;
+    border: none;
+    outline: none;
+    letter-spacing:1;
+
+}
+.profile_pic{
+    clip-path: circle();
+    margin-left: 55rem;
+    margin-top: 15rem;
+}
+
+.learnfily_quotes{
+    font-size: 12rem;
+    margin-left: 28rem;
+    margin-top: -1rem;
+    mix-blend-mode: overlay;
+    color: rgb(231, 226, 226);
+}
+.learnfily_quotes_subtittle{
+    font-size: 1.5rem;
+    margin-left: 35rem;
+    margin-top: -15rem;
+}
+.quotes_subtittle{
+    font-size: 1.5rem;
+    margin-left: 45rem;
+    margin-top: -1rem;
+}
+.learnfily_profile_name{
+    margin-left: 55rem;
+    margin-top: 3rem;
+}.learnfily_profile_name_subtittle{
+    margin-left: 55rem;
+    margin-top: -1rem;
+    color: rgb(168, 164, 164);
+}
+.images_all_manager{
+    margin-top: 5rem;
+}
+.learnfily_why_choses{
+    width: 115rem;
+    height: 60rem;
+    background-color: #eeeeee;
+    margin-top: -1rem;
+
+}
+.learnfily_Course_why_choses{
+    margin-left: 20rem;
+    margin-top:-52rem;
+    color: blue;
+    letter-spacing: 0.2rem;
+}
+.learnfily_distant_learning_Course{
+    margin-top: 1rem;
+    margin-left: 20rem;
+    font-size: 3.5rem;
+    letter-spacing: 0.1rem;
+}
+.learnfily_subtitle_distant{
+    margin-top: 1rem;
+    margin-left: 20rem;
+    color: rgb(146, 146, 146);
+    word-spacing: 1.5;
+    font-size: 1.2rem;
+
+}
+.learnfily_expirence{
+    margin-left: 17em;
+    margin-top: 2rem;
+    letter-spacing: 0.1rem;
+
+}
+.learnfily_teacher_expirence{
+    margin-left: 25em;
+    margin-top: -2.3rem;
+    letter-spacing: 0.1rem;
+
+}
+.learnfily_expirence_{
+    margin-left: 20rem;
+    font-size: 4rem;
+    margin-top: -1rem;
+}
+.learnfily_teacher_expirence_{
+    margin-left: 29rem;
+    font-size: 3.6rem;
+    margin-top: -7rem;
+}
+.image_learnfily_two{
+    margin-left: 70rem;
+    margin-top: -25rem;
+}
+.learnfily_two_girl{
+    margin-left: 60rem;
+    margin-top: -15rem;
+}
+.learnfily_recent_postchoses{
+    margin-top: 20rem;
+}
+.learnfily_recent_postchoses{
+    margin-left: 50rem;
+    margin-top:20rem;
+    color: blue;
+    letter-spacing: 0.2rem;
+}
+.learnfily_latest_aritical{
+    margin-top: 2rem;
+    margin-left: 45rem;
+    font-size: 3rem;
+}
+.online_work_image{
+    margin-left: 20rem;
+    margin-top: 2rem
+}
+.online_work_laptop{
+    margin-left: 2rem;
+}
+.online_work_student{
+    margin-left: 2rem;
+}
+.tag_online_course{
+    margin-left: 21rem;
+    margin-top: -22rem;
+    font-size: 1.2rem;
+    
+}
+.courses_tag{
+    margin-left: 47rem;
+    margin-top: -3rem;
+    font-size: 1.2rem;
+}
+.online_course_tag{
+    margin-left: 73rem;
+    margin-top: -3rem;
+    font-size: 1.2rem;
+}
+.learnfily_border_calender{
+    border-style:solid;
+    border-color:darkgrey ;
+    border-width: 0.1rem;
+    margin-top: 21rem;
+    width: 5rem;
+    height: 5rem;
+    margin-left: 20rem;
+}
+.learnfily_border_calender_date{
+    margin-top: -0.1rem;
+    font-size: 2.5rem;
+    margin-left: 1rem;
+}
+.learnfily_border_calender_month{
+    margin-left: 1rem;
+    margin-top: -1rem;
+    letter-spacing: 0.1rem;
+}
+.learnfily_headning{
+    margin-left: 27rem;
+    margin-top: -5rem;
+    font-size: 2rem;
+}
+.heading_subtittle{
+    margin-left: 27rem;
+    margin-top: 1rem;
+    color: rgb(149, 147, 147);
+}
+.learnfily_border_calender_two{
+    border-style:solid;
+    border-color:darkgrey ;
+    border-width: 0.1rem;
+    margin-top: -13rem;
+    width: 5rem;
+    height: 5rem;
+    margin-left: 46rem;
+}
+.learnfily_border_calender_date_two{
+    margin-top: 0.1rem;
+    font-size: 2.5rem;
+    margin-left: 1rem;
+}
+.learnfily_border_calender_month_two{
+    margin-left: 1rem;
+    margin-top: -1rem;
+    letter-spacing: 0.1rem;
+}
+.learnfily_headning_traditional{
+    margin-left: 53.1rem;
+    margin-top: -5rem;
+    font-size: 2rem;
+}
+.heading_subtittle_traditional{
+    margin-left: 53.1rem;
+    margin-top: 1rem;
+    color: rgb(149, 147, 147);
+
+}
+.learnfily_border_calender_three{
+    border-style:solid;
+    border-color:darkgrey ;
+    border-width: 0.1rem;
+    margin-top: -15rem;
+    width: 5rem;
+    height: 5rem;
+    margin-left: 72.2rem;
+}
+.learnfily_headning_maintain_student{
+    margin-left: 79rem;
+    margin-top: -5rem;
+    font-size: 2rem;
+}
+.heading_subtittle_maintain_student{
+    margin-left: 79rem;
+    margin-top: 1rem;
+    color: rgb(149, 147, 147);
+
+}
+.learnfily_view_more_courses_button{
+    background-color:rgb(226, 44, 44);
+    width:12rem;
+    height:3rem;
+    font-size:-1rem;
+    margin-left:53rem;
+    color:white;
+    padding:-1rem -1rem -1rem -1rem;
+    border-radius:2rem 2rem 2rem 2rem;
+    margin-top: 2rem;
+    border: none;
+    outline: none;
+    letter-spacing:1;
+}
+.learnfily_all_icons{
+    width: 115rem;
+    height: 10rem;
+    background-color: #eeeeee;
+    margin-top: 8rem;
+}
+#adobe-icon-learnfily{
+    font-size: 4rem;
+    margin-left: 25rem;
+    margin-top: 2rem;
+}
+#css_icon_learnfily{
+    margin-top: -12rem;
+    font-size: 4rem;
+    margin-left: 10rem;
+}
+#ember_icon_learnfily{
+    margin-top: -12rem;
+    font-size: 4rem;
+    margin-left: 8rem;
+}
+#heart_icon_learnfily{
+    margin-top: -12rem;
+    font-size: 4rem;
+    margin-left: 8rem;
+
+}
+#cpanel_icon_learnfily{
+    margin-top: -12rem;
+    font-size: 4rem;
+    margin-left: 8rem;
+}
+.name_adobe{
+    margin-left: 25.2rem;
+    margin-top: -4rem;
+}
+.name_heart{
+    margin-left: 68rem;
+    margin-top: -5rem;
+}
+.leranfily_footer{
+    width: 115rem;
+    height: 40rem;
+    background-color: #0e0d0d;
+    margin-top: 4rem;
+}
+.footer_date_month{
+    color: white;
+    margin-left: 15rem;
+    margin-top: -30rem;
+
+}
+.footer_online_sketch{
+    color: white;
+    margin-left: 43rem;
+    margin-top: -2.8rem;
+}
+.learnfily_footer_button{
+    background-color:blue;
+    width:12rem;
+    height:3rem;
+    font-size:-1rem;
+    margin-left:85rem;
+    color:white;
+    padding:-1rem -1rem -1rem -1rem;
+    border-radius:2rem 2rem 2rem 2rem;
+    margin-top: -4rem;
+    border: none;
+    outline: none;
+    letter-spacing:1;
+}
+.learnfily_horizintal_line{
+    width: 85rem;
+    margin-top: 5rem;
+}
+.footer_logo_learnfily{
+    color: white;
+    margin-left: 15rem;
+    margin-top: 5rem;
+}
+.footer_workshop{
+    color: white;
+    margin-left: 33rem;
+    margin-top: -3rem;
+}
+.footer_links{
+    color: white;
+    margin-left: 60rem;
+    margin-top: -2.5rem;
+}
+.subtittle_creating_design{
+    color: #b8aeae;
+    margin-left: 33rem;
+}
+.footer_home_class{
+    color: #b8aeae;
+    margin-left: 60rem;
+    margin-top: -10rem;
+}
+#facebook_icon{
+    margin-left: 89rem;
+    font-size: 2rem;
+    margin-top: -15rem;
+    color: white;
+}
+#twitter_icon{
+    margin-left: 92rem;
+    font-size: 2rem;
+    margin-top: -15rem;
+    color: white;
+}
+#instagram_icon{
+    margin-left: 95rem;
+    font-size: 2rem;
+    margin-top: -15rem;
+    color: white;
+}
